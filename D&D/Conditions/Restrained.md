@@ -1,0 +1,3 @@
+- A restrained creature’s [[Speed|speed]] becomes 0, and it can’t benefit from any bonus to its speed.
+- [[Attack Rolls|Attack rolls]] against the creature have [[Advantage|advantage]], and the creature’s attack rolls have [[Disadvantage|disadvantage]].
+- The creature has [[Disadvantage|disadvantage]] on [[Dexterity]] [[Saving Throws|saving throws]].

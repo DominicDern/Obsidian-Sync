@@ -1,0 +1,6 @@
+- A petrified creature is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+- The creature is [[Incapacitated|incapacitated]], can’t move or speak, and is unaware of its surroundings.
+- [[Attack Rolls|Attack rolls]] against the creature have [[Advantage|advantage]].
+- The creature automatically fails [[Strength]] and [[Dexterity]] [[Saving Throws|saving throws]].
+- The creature has [[Resistance|resistance]] to all [[Damage|damage]].
+- The creature is immune to [[Poison|poison]] and [[Disease|disease]], although a poison or disease already in its system is suspended, not neutralized.

@@ -1,0 +1,1 @@
+A magical item that cancels all magical effects within 10 feet once used

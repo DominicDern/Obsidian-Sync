@@ -1,0 +1,1 @@
+A small inn just outside of the port city of [[Baldurs Gate]]

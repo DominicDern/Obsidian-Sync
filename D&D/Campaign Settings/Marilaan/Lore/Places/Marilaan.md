@@ -1,0 +1,1 @@
+A planet covered in a very diverse ecology. The current age, known as the [[Age of Upheaval]], takes place during the fall of the [[Busharian Khanate]].

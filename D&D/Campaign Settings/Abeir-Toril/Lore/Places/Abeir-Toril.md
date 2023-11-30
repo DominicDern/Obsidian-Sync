@@ -1,0 +1,1 @@
+Abeir-Toril was the name of a prehistoric planet that existed before −31,000 DR when [[Ao]] sundered the world into two worlds: [[Abeir]] and [[Toril]]. The name was archaic, meaning "cradle of life".

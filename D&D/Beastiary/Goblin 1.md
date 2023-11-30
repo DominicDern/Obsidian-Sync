@@ -1,0 +1,4 @@
+Goblins were a race of small and numerous [[Goblinoids|goblinoids]] common throughout [[Toril]], often living in underground caverns near the surface known as lairs. The race was often, though not always, dominated by other [[goblinoids|Goblinoids]], most commonly [[Hobgoblin]]. Goblins may have, in fact, been initially created by this related race to serve as scouts and infiltrators.
+
+# Religion
+Goblins primarily worshiped members of the [[Goblinoid Pantheon|goblinoid pantheon]], such as [[Maglubiyet]] in particular, who inspired them with his feats of strength and treachery. Following the [[Spellplague]] and prior to the [[Second Sundering]], however, the power of the Black Lord [[Bane]] grew and extended his power over [[Maglubiyet]], making the goblin god one of his [[Exarchs|exarchs]]. Following the Second Sundering, goblins again worshiped deities such as [[Maglubiyet]] and [[Khurgorbaeyag]].

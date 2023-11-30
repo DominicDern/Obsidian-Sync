@@ -1,0 +1,9 @@
+Born the first female of a traditional family, Iona Ianvoril is destined to inherit nothing. So, instead, she dedicated her life to the book and to nature. 
+
+House Ianvoril - positioned along the road between [[Loudwater]] and the [[Hellgate Keep]]. Ancient, powerful and (as far as they know) respected, the Ianvoril family are iron-fisted traditionalists and have defended the cities of [[Loudwater]] and [[Llorkh]] for centuries. <mark style="background: #CACFD9A6;">The marriage of her parents was already controversial, with the predominantly elven house marrying with a human</mark>, though these unions are not strictly disallowed. From the union, the forces of the the Loudwater army have strengthened and the desire for a male heir was enforced. As such, Iona was relegated to household duties, where she first met the retired Paladin Arwin, who was employed as a cook and baker but still held to the ways of the ancients.
+
+Frequently running from duties within the household, Iona was soon forgotten when her parents finally sired her brother, Ian. This finally allowed her to pursue the [[Oath of the Ancients]] in earnest, her ancient family blood allowing her to perceive and judge the long-term impacts of Good and Evil on the world.  Dedicating herself fully to training with weapons and magic, her proficiency grew quickly; but so too her desire to test herself against the evils of the world. 
+
+This desire peaked when Ian reached the age of 15, entering the world of adulthood and officially assuming the title of heir to the house along the [[Loudwater]]. The following night, Iona left, a rainstorm covering any tracks that may have been left.
+
+Family Secret: My brother is illegitimate; the offspring of a changeling that has been acting in my fathers place since before my bother was born. Iona was around the age of ten when she lost her real dad, she suspected that something happened to her father but was never able to confirm any suspicions.

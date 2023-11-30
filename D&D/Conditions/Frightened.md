@@ -1,0 +1,2 @@
+- A frightened creature has [[Disadvantage|disadvantage]] on [[Ability Checks|ability checks]] and [[Attack Rolls|attack rolls]] while the source of its fear is within line of sight.
+- The creature can’t willingly [[Movement|move]] closer to the source of its fear.

@@ -1,0 +1,30 @@
+This city is resting on the cusp of the northern wastes built into the side of the [[Nether Mountains]], a militaristic bastion holding off the monsters coming from the [[Northern Wastes]]. Just past the mountain range there is the [[The Frozen Sea]] and then the desert of [[Anauroch]].
+# Shops
+- Apocalyptic Apothocary
+	- Poisoner's Kit _(50 gp)_  
+	- Brewer's Supplies _(20 gp)_  
+	- Ink (1 ounce bottle) _(10 gp)_  
+	- Perfume (vial) _(5 gp)_  
+	- Acid (vial) _(25 gp)_  
+	- Potion of Water Breathing _(100 gp)_  
+	- Healer's Kit _(5 gp)_  
+	- Potion of Greater Healing _(100 gp)_  
+	- Potion of Healing _(50 gp)_
+- Armourer's guild
+	- Lyre _(30 gp)_  (used to be owned by a previously well known bard)
+	- Medium Armor _(10 gp)_  
+	- Artisan's Tools _(5 gp)_  
+	- Light Armor _(10 gp)_  
+	- Adventuring Gear _(2 sp)_  
+	- Simple Ranged Weapon _(1 sp)_  
+	- Shield _(10 gp)_  
+	- Light Armor _(10 gp)_  
+	- Musical Instrument _(30 gp)_
+- Garud's Book shoppe
+	- Ink, stink _(5 gp)_   
+	- Ink, invisible (simple) _(2 gp)_  
+	- Book, portrait _(10 gp)_  
+	- Book, cypher _(150 gp)_  
+	- Spellbook, compact _(50 gp)_  ([[Arcane Lock]])
+	- Charcoal (1 stick) _(5 sp)_  
+	- Book, hollow _(15 gp)_ 

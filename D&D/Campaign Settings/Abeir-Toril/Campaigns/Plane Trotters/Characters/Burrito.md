@@ -1,0 +1,1 @@
+Unknown master told them to go to the desert to find another 'shiny'

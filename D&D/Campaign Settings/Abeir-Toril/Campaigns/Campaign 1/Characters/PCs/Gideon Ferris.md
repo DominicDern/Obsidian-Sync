@@ -1,0 +1,3 @@
+- Previous master sergeant of the Watch of Baldur's Gate and was dis-honorably discharged for the suspected use of illicit magic.
+- Now one of the five Counsel Guardians
+- 2 inch pecker

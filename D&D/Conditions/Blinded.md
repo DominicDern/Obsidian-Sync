@@ -1,0 +1,2 @@
+- A blinded creature can’t see and automatically fails any [[Ability Checks|ability check]] that requires sight.
+- [[Attack Rolls|Attack rolls]] against the creature have [[Advantage|advantage]], and the creature’s attack rolls have [[Disadvantage|disadvantage]].

@@ -1,0 +1,1 @@
+Yuan-ti were a collective race of [[Serpentfolk|serpentfolk]], also known as the **snake people** of [[Malatra]], who were seen as corrupt and degenerate monsters by other races.

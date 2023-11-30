@@ -1,0 +1,3 @@
+- A prone creature’s only [[Movement|movement]] option is to [[Crawl|crawl]], unless it stands up and thereby ends the condition.
+- The creature has [[Disadvantage|disadvantage]] on [[Attack Rolls|attack rolls]].
+- An [[Attack Rolls|attack roll]] against the creature has [[Advantage|advantage]] if the attacker is within 5 feet of the creature. Otherwise, the attack roll has [[Disadvantage|disadvantage]].

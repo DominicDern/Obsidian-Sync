@@ -1,0 +1,1 @@
+- What if time is experiential and is in proportion with entropy? Such as the lower the entropy the slower time runs. The dimension of time is stretched out by the low entropy.

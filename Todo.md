@@ -1,0 +1,3 @@
+- [ ] 🔼 📅 2023-08-30 | Refactor Characters folder
+- [ ] ⏫ 📅 2023-08-30 | Create default implementation of a Character
+- [ ] ⏫ 📅 2023-08-30 | Create default implementation of a Monster

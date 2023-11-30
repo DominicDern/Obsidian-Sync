@@ -1,0 +1,9 @@
+The **creator races** were a group of five legendary ancient races native to [[Abeir-Toril]]  who were prominent during the [[Days of Thunder]] (−35,000 DR to −30,000 DR and who gave rise to many of the common races of the world. They were also capitalized as the Creator Races or called simply the Creators. In the [[Elven language]], they were known as the Iquar-Tel'Quessir or Iquar'Tel'Quessir or iquar Tel'Quessir, all meaning "Creator Races", as recorded in at least one text, but it was unknown if this derived from a title the creator races gave themselves or a mistranslation by human scholars or its [[Half-efl|half-elf]] author. Either way, the term was not meant to carry honor or respect.
+
+# Known creator races
+---
+- [[Sarrukh]], the reptilian or sauroid creator race, rulers of the Sarrukh Empires from −35,000 DR and creators of the [[Yuan-ti|yuan-ti]], [[Naga|naga]], [[Lizardfolk|lizardfolk]], and other [[Serpentfolk|serpentfolk]] and [[Scalykind|scalykind]].
+- [[Batrachi]], the amphibioid creator race, rulers of the [[Batrachi Empires]] from −33,500 DR and creators of the [[Bullywugs|bullywugs]], [[Dopplegangers|doppelgangers]], [[Kuo-toa|kuo-toa]], and other amphibious, piscine, and shapeshifter races.
+- [[Aearee]], the avian creator race, rulers of the Aearee Empires from −31,000 DR and creators of the [[Aarakocra|aarakocra]], [[Kenku|kenku]], and other avian humanoids;
+- [[Fey]] rulers of the otherworldly realm of [[Faerie]] from −34,000 DR, creators of [[Korreds|korreds]], [[Pixies|pixies]], and [[Sprites|sprites]].
+- [[Humans]], though still primitive, even ape-like, and dwelling in caves and using simple tools.

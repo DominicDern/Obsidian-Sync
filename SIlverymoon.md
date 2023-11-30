@@ -1,0 +1,42 @@
+# Shops
+- Freddi's Foods
+	- Owner knows someone who lives near the edge of the marsh saw something large near the coastline of the marsh
+	- Goods
+		- 1 lb. of myrrh _(8 gp)_  
+		- 1 pint of honey _(2 sp)_                                                                       
+		- 1 gallon of milk _(2 sp)_  
+		- Fortune cookie _(1 cp)_  
+		- 1 lb. of mustard _(3 gp)_  
+		- 1 lb. of fungi _(2 cp)_  
+		- 1 lb. of dried fruit _(2 cp)_  
+		- 1 lb. of camphor _(2 gp)_
+- Sven's Leatherworks
+	- Goods
+		- Drum _(30 gp)_  
+		- Artisan's Tools _(5 gp)_  
+		- Light Armor _(10 gp)_  
+		- Simple Ranged Weapon _(1 sp)_  
+		- Shield _(10 gp)_  
+		- Adventuring Gear _(2 sp)_  
+		- Medium Armor _(10 gp)_  
+		- Lyre _(30 gp)_
+- Pam's Apothecary
+	- Goods
+		- Brewer's Supplies _(20 gp)_  
+		- Potion of Superior Healing _(500 gp)_  
+		- Component Pouch _(25 gp)_  
+		- Potion of Water Breathing _(100 gp)_  
+		- Jug _(2 cp)_  
+		- Potion of Supreme Healing _(5,000 gp)_  
+		- Potion of Animal Friendship _(100 gp)_  
+		- Perfume (vial) _(5 gp)_
+- Amerissa's Blacksmith
+	- Goods
+		- Pike _(5 gp)_  
+		- Mason's Tools _(10 gp)_  
+		- Bell _(1 gp)_  
+		- Whetstone _(1 cp)_  
+		- Mace _(5 gp)_  
+		- Breastplate _(400 gp)_  
+		- Medium Armor Breastplate _(400 gp)_  
+		- Manacles, mithral _(2,015 gp)_  

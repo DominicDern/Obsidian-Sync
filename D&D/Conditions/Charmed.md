@@ -1,0 +1,2 @@
+- A charmed creature can’t [[Attack Rolls|attack]] the charmer or target the charmer with harmful abilities or magical effects.
+- The charmer has [[Advantage|advantage]] on any [[Ability Checks|ability check]] to interact socially with the creature.

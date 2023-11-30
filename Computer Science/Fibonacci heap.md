@@ -1,0 +1,1 @@
+In [[computer science]], a **Fibonacci heap** is a [[data structure]] for [[priority queue]] operations, consisting of a collection of [[heap-ordered trees]]. [Fibonacci heap](https://en.wikipedia.org/wiki/Fibonacci_heap)s

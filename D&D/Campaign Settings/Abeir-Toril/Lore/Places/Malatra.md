@@ -1,0 +1,1 @@
+Malatra was a jungle land in the south of [[Kara-Tur]]. It was home to three nations: the tribes of the [[Purang]], the [[Seng]] people of Laothan and the [[Kuong Kingdom]].

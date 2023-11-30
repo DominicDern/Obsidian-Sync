@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"8a1be5e550a1981f","x":194,"y":-356,"width":250,"height":60,"type":"text","text":""},
+		{"id":"216348bf8805cd2c","type":"text","text":"[[Plague Rats]]","x":0,"y":-100,"width":250,"height":60},
+		{"id":"33b9b9c5ab0b4897","type":"text","text":"[[Sparrow (Cyno)]]","x":0,"y":-180,"width":250,"height":60},
+		{"id":"5c7dc19e3373747e","type":"text","text":"[[Melissa Throughwater]]","x":0,"y":-20,"width":250,"height":60},
+		{"id":"e6b9f4443c4ab7dc","type":"text","text":"[[Starlix]]","x":2,"y":62,"width":250,"height":60},
+		{"id":"95b94f0086eda3b8","type":"text","text":"Possible betrayal towards the party?","x":360,"y":-56,"width":250,"height":56},
+		{"id":"ab6b812526fd3b8f","type":"text","text":"Butler","x":0,"y":-440,"width":250,"height":60},
+		{"id":"5adb0857da3f6057","type":"text","text":"Un-named [[Archlich]]","x":340,"y":-480,"width":250,"height":60},
+		{"id":"86e496daa642fe34","type":"text","text":"The box key","x":340,"y":-400,"width":250,"height":60},
+		{"id":"5c0201cbf561848b","type":"text","text":"[[Archlich]] infused trapped a ","x":680,"y":-480,"width":300,"height":140},
+		{"id":"9ec67f4b7f92a750","type":"text","text":"[[Bran]]","x":0,"y":-740,"width":250,"height":60},
+		{"id":"e538c0fa61d892e8","type":"text","text":"Father abandoned him. For what reason?","x":340,"y":-740,"width":250,"height":60},
+		{"id":"90cd236572f3dc22","type":"text","text":"To be able to have a child Bran's father made a deal with Shar. To avoid Bran from being taken by Sharians at the age of 6, Bran's father traded his freedoms for his son's.","x":680,"y":-820,"width":280,"height":220}
+	],
+	"edges":[
+		{"id":"5d6a78b9bbb6434a","fromNode":"5c7dc19e3373747e","fromSide":"left","toNode":"216348bf8805cd2c","toSide":"left"},
+		{"id":"af61c967ff037160","fromNode":"216348bf8805cd2c","fromSide":"right","toNode":"95b94f0086eda3b8","toSide":"left"},
+		{"id":"5366a4392b4023a0","fromNode":"5c7dc19e3373747e","fromSide":"right","toNode":"95b94f0086eda3b8","toSide":"left"},
+		{"id":"ebbbc93e0739abff","fromNode":"33b9b9c5ab0b4897","fromSide":"left","toNode":"216348bf8805cd2c","toSide":"left"},
+		{"id":"afb5d1d25dff3b8e","fromNode":"33b9b9c5ab0b4897","fromSide":"right","toNode":"95b94f0086eda3b8","toSide":"left"},
+		{"id":"8cd35cc6ffa1ced0","fromNode":"e6b9f4443c4ab7dc","fromSide":"right","toNode":"95b94f0086eda3b8","toSide":"left"},
+		{"id":"d727bd23a8a46227","fromNode":"5c7dc19e3373747e","fromSide":"left","toNode":"e6b9f4443c4ab7dc","toSide":"left"},
+		{"id":"308c24f0ad6a05f6","fromNode":"ab6b812526fd3b8f","fromSide":"right","toNode":"5adb0857da3f6057","toSide":"left"},
+		{"id":"d3eaaa47e978fad0","fromNode":"ab6b812526fd3b8f","fromSide":"right","toNode":"86e496daa642fe34","toSide":"left"},
+		{"id":"71717d16d3fbd7ed","fromNode":"5adb0857da3f6057","fromSide":"right","toNode":"5c0201cbf561848b","toSide":"left"},
+		{"id":"6a9a81ddbc446d4f","fromNode":"86e496daa642fe34","fromSide":"right","toNode":"5c0201cbf561848b","toSide":"left"},
+		{"id":"8d3e536c060072a5","fromNode":"9ec67f4b7f92a750","fromSide":"right","toNode":"e538c0fa61d892e8","toSide":"left"},
+		{"id":"1577ab4d20ed19a2","fromNode":"e538c0fa61d892e8","fromSide":"right","toNode":"90cd236572f3dc22","toSide":"left"}
+	]
+}

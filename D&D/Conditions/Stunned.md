@@ -1,0 +1,3 @@
+- A stunned creature is [[Incapacitated|incapacitated]], can’t [[Movement|move]], and can speak only falteringly.
+- The creature automatically fails [[Strength]] and [[Dexterity]] [[Saving Throws|saving throws]].
+- [[Attack Rolls|Attack rolls]] against the creature have [[Advantage|advantage]].
